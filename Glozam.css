@@ -1,0 +1,149 @@
+$icon-size:55px;
+
+.nav-link{
+	text-transform: uppercase;
+	padding-right: 1rem !important;
+	padding-left: 1rem !important;
+}
+
+.nav-item .active {
+	border-left: 3px #999966 solid;
+}
+
+.carousel-item{
+	height: 450px;
+}
+
+.carousel-image-1{
+	background: url(https://images.unsplash.com/photo-1565095221487-0cd97841de66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+	background-size: cover;
+}
+
+.carousel-image-2{
+	background: url(https://images.unsplash.com/photo-1565095275158-79eb145c6f5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+	background-size: cover;
+}
+
+.carousel-image-3{
+	background: url(https://images.unsplash.com/photo-1554490783-82bac5dfc351?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIzOTI1fQ&auto=format&fit=crop&w=1055&q=80);
+	background-size: cover;
+}
+
+.fas{
+	font-size: 55px;
+}
+
+#home-head{
+	background: url(https://images.unsplash.com/photo-1481732582370-0445455c5ba1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1071&q=80);
+	min-height: 250px; 
+	position: relative; 
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: #fff;
+}
+
+.dark-overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.7);
+}
+
+#info .btn{
+	box-shadow: none !important;
+}
+
+#video-play{
+	background: url(https://images.unsplash.com/photo-1494919997560-caff2f1cff75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1033&q=80);
+	min-height: 250px; 
+	position: relative; 
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: #fff;
+}
+
+#video-play a{
+	color: #fff;
+}
+
+#main-footer{
+	background: #000;
+	color: #fff;
+}
+
+#page-header{
+	background: url(https://images.unsplash.com/photo-1542822038-3a1810a5fb69?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1789&q=80);
+	height: 200px;
+	color: #fff;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.about-img{
+	margin-top: -50px;	
+}
+
+#services-header{
+	background: url(https://images.unsplash.com/photo-1522273987129-4ca3c41871e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1143&q=80);
+	height: 200px;
+	color: #fff;
+	position: relative;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#faq a{
+	border: #444;
+	color: #000;
+	color: #fff;
+}
+
+#faq .card-header{
+	background: #29293d;
+}
+#faq .card-body{
+	background: #333;
+}
+
+#blog-header{
+	background: url(https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+	height: 200px;
+	color: #fff;
+	position: relative;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#active-header{
+	background: url(https://images.unsplash.com/photo-1455390582262-044cdead277a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=966&q=80);
+	height: 200px;
+	color: #fff;
+	position: relative;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#staff .img2 {
+	height: 170px;
+	width: 100%;
+}
+
+#staff .img3 {
+	height: 170px;
+	width: 100%;
+}
+
+#staff .img4 {
+	height: 170px;
+	width: 100%;
+}
